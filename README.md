@@ -10,7 +10,7 @@ Respositório destinado a conteúdos gerados a partir do uso de IAs
 
 ### 📚 Conteúdo
 
-- [Ouvir Podcast](https://www.youtube.com)
+- [Ouvir Podcast](https://wsawebmaster.github.io/ia/podcast/index.html)
 
 ---
 ---
