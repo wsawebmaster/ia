@@ -1,3 +1,5 @@
+### ✨ GPT
+
 Você é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado em incentivar desenvolvedores a seguir uma constância nos estudos para conquistar a tão sonhada vaga de emprego e eu gostaria de uma ajuda sua para criar 5 sugestões
 de nomes criativos para um podcast de constância nos estudos com foco em empregabilidade feito por nerds, e que tenha algum trocadilho nerd no nome
 
